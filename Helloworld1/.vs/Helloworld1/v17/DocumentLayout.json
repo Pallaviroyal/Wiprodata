@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pallavi Poola\\OneDrive\\Desktop\\wiprotraining\\Helloworld1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E20B39F-A790-442D-A517-87A4EF57C257}|Helloworld1\\Helloworld1.csproj|c:\\users\\pallavi poola\\onedrive\\desktop\\wiprotraining\\helloworld1\\helloworld1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E20B39F-A790-442D-A517-87A4EF57C257}|Helloworld1\\Helloworld1.csproj|solutionrelative:helloworld1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Helloworld1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E20B39F-A790-442D-A517-87A4EF57C257}|Helloworld1\\Helloworld1.csproj|c:\\users\\pallavi poola\\onedrive\\desktop\\wiprotraining\\helloworld1\\helloworld1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Helloworld1",
+              "DocumentMoniker": "C:\\Users\\Pallavi Poola\\OneDrive\\Desktop\\wiprotraining\\Helloworld1\\Helloworld1\\Helloworld1.csproj",
+              "RelativeDocumentMoniker": "Helloworld1\\Helloworld1.csproj",
+              "ToolTip": "C:\\Users\\Pallavi Poola\\OneDrive\\Desktop\\wiprotraining\\Helloworld1\\Helloworld1\\Helloworld1.csproj*",
+              "RelativeToolTip": "Helloworld1\\Helloworld1.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-21T14:56:33.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pallavi Poola\\OneDrive\\Desktop\\wiprotraining\\Helloworld1\\Helloworld1\\Program.cs",
+              "RelativeDocumentMoniker": "Helloworld1\\Program.cs",
+              "ToolTip": "C:\\Users\\Pallavi Poola\\OneDrive\\Desktop\\wiprotraining\\Helloworld1\\Helloworld1\\Program.cs*",
+              "RelativeToolTip": "Helloworld1\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T14:56:07.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Pallavi Poola\OneDrive\Desktop\wiprotraining\Helloworld1\Helloworld1\bin\Debug\Helloworld1.exe.config
+C:\Users\Pallavi Poola\OneDrive\Desktop\wiprotraining\Helloworld1\Helloworld1\bin\Debug\Helloworld1.exe
+C:\Users\Pallavi Poola\OneDrive\Desktop\wiprotraining\Helloworld1\Helloworld1\bin\Debug\Helloworld1.pdb
+C:\Users\Pallavi Poola\OneDrive\Desktop\wiprotraining\Helloworld1\Helloworld1\obj\Debug\Helloworld1.csproj.AssemblyReference.cache
+C:\Users\Pallavi Poola\OneDrive\Desktop\wiprotraining\Helloworld1\Helloworld1\obj\Debug\Helloworld1.csproj.CoreCompileInputs.cache
+C:\Users\Pallavi Poola\OneDrive\Desktop\wiprotraining\Helloworld1\Helloworld1\obj\Debug\Helloworld1.exe
+C:\Users\Pallavi Poola\OneDrive\Desktop\wiprotraining\Helloworld1\Helloworld1\obj\Debug\Helloworld1.pdb
