@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pallavi Poola\\OneDrive\\Desktop\\wiprotraining\\Extension1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6EC465-6BCD-406F-B3F7-BB7D20FFEF65}|Extension1\\Extension1.vbproj|c:\\users\\pallavi poola\\onedrive\\desktop\\wiprotraining\\extension1\\extension1\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3F6EC465-6BCD-406F-B3F7-BB7D20FFEF65}|Extension1\\Extension1.vbproj|solutionrelative:extension1\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.vb",
+              "DocumentMoniker": "C:\\Users\\Pallavi Poola\\OneDrive\\Desktop\\wiprotraining\\Extension1\\Extension1\\Class1.vb",
+              "RelativeDocumentMoniker": "Extension1\\Class1.vb",
+              "ToolTip": "C:\\Users\\Pallavi Poola\\OneDrive\\Desktop\\wiprotraining\\Extension1\\Extension1\\Class1.vb",
+              "RelativeToolTip": "Extension1\\Class1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-24T07:03:24.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

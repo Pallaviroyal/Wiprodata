@@ -1,0 +1,7 @@
+C:\Users\Pallavi Poola\wiprotraining\day6\Filestream\Filestream\bin\Debug\Filestream.exe.config
+C:\Users\Pallavi Poola\wiprotraining\day6\Filestream\Filestream\bin\Debug\Filestream.exe
+C:\Users\Pallavi Poola\wiprotraining\day6\Filestream\Filestream\bin\Debug\Filestream.pdb
+C:\Users\Pallavi Poola\wiprotraining\day6\Filestream\Filestream\obj\Debug\Filestream.csproj.AssemblyReference.cache
+C:\Users\Pallavi Poola\wiprotraining\day6\Filestream\Filestream\obj\Debug\Filestream.csproj.CoreCompileInputs.cache
+C:\Users\Pallavi Poola\wiprotraining\day6\Filestream\Filestream\obj\Debug\Filestream.exe
+C:\Users\Pallavi Poola\wiprotraining\day6\Filestream\Filestream\obj\Debug\Filestream.pdb

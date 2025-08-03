@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pallavi Poola\\OneDrive\\Desktop\\wiprotraining\\Arrays1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45704972-10B0-4914-9092-58467A3834FE}|Arrays1\\Arrays1.csproj|c:\\users\\pallavi poola\\onedrive\\desktop\\wiprotraining\\arrays1\\arrays1\\practice3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45704972-10B0-4914-9092-58467A3834FE}|Arrays1\\Arrays1.csproj|solutionrelative:arrays1\\practice3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45704972-10B0-4914-9092-58467A3834FE}|Arrays1\\Arrays1.csproj|C:\\Users\\Pallavi Poola\\OneDrive\\Desktop\\wiprotraining\\Arrays1\\arrays1\\arrayvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45704972-10B0-4914-9092-58467A3834FE}|Arrays1\\Arrays1.csproj|solutionrelative:arrays1\\arrayvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Arrays1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45704972-10B0-4914-9092-58467A3834FE}|Arrays1\\Arrays1.csproj|C:\\Users\\Pallavi Poola\\OneDrive\\Desktop\\wiprotraining\\Arrays1\\arrays1\\practice4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45704972-10B0-4914-9092-58467A3834FE}|Arrays1\\Arrays1.csproj|solutionrelative:arrays1\\practice4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45704972-10B0-4914-9092-58467A3834FE}|Arrays1\\Arrays1.csproj|C:\\Users\\Pallavi Poola\\OneDrive\\Desktop\\wiprotraining\\Arrays1\\arrays1\\jaggaedarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45704972-10B0-4914-9092-58467A3834FE}|Arrays1\\Arrays1.csproj|solutionrelative:arrays1\\jaggaedarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45704972-10B0-4914-9092-58467A3834FE}|Arrays1\\Arrays1.csproj|C:\\Users\\Pallavi Poola\\OneDrive\\Desktop\\wiprotraining\\Arrays1\\arrays1\\practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45704972-10B0-4914-9092-58467A3834FE}|Arrays1\\Arrays1.csproj|solutionrelative:arrays1\\practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45704972-10B0-4914-9092-58467A3834FE}|Arrays1\\Arrays1.csproj|C:\\Users\\Pallavi Poola\\OneDrive\\Desktop\\wiprotraining\\Arrays1\\arrays1\\quiz1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45704972-10B0-4914-9092-58467A3834FE}|Arrays1\\Arrays1.csproj|solutionrelative:arrays1\\quiz1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Quiz1.cs",
+              "DocumentMoniker": "C:\\Users\\Pallavi Poola\\OneDrive\\Desktop\\wiprotraining\\Arrays1\\Arrays1\\Quiz1.cs",
+              "RelativeDocumentMoniker": "Arrays1\\Quiz1.cs",
+              "ToolTip": "C:\\Users\\Pallavi Poola\\OneDrive\\Desktop\\wiprotraining\\Arrays1\\Arrays1\\Quiz1.cs",
+              "RelativeToolTip": "Arrays1\\Quiz1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T05:30:34.771Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Practice3.cs",
+              "DocumentMoniker": "C:\\Users\\Pallavi Poola\\OneDrive\\Desktop\\wiprotraining\\Arrays1\\Arrays1\\Practice3.cs",
+              "RelativeDocumentMoniker": "Arrays1\\Practice3.cs",
+              "ToolTip": "C:\\Users\\Pallavi Poola\\OneDrive\\Desktop\\wiprotraining\\Arrays1\\Arrays1\\Practice3.cs",
+              "RelativeToolTip": "Arrays1\\Practice3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:51:32.58Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Arrayvalues.cs",
+              "DocumentMoniker": "C:\\Users\\Pallavi Poola\\OneDrive\\Desktop\\wiprotraining\\Arrays1\\Arrays1\\Arrayvalues.cs",
+              "RelativeDocumentMoniker": "Arrays1\\Arrayvalues.cs",
+              "ToolTip": "C:\\Users\\Pallavi Poola\\OneDrive\\Desktop\\wiprotraining\\Arrays1\\Arrays1\\Arrayvalues.cs",
+              "RelativeToolTip": "Arrays1\\Arrayvalues.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:20:10.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "practice4.cs",
+              "DocumentMoniker": "C:\\Users\\Pallavi Poola\\OneDrive\\Desktop\\wiprotraining\\Arrays1\\Arrays1\\practice4.cs",
+              "RelativeDocumentMoniker": "Arrays1\\practice4.cs",
+              "ToolTip": "C:\\Users\\Pallavi Poola\\OneDrive\\Desktop\\wiprotraining\\Arrays1\\Arrays1\\practice4.cs",
+              "RelativeToolTip": "Arrays1\\practice4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:03:47.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Practice.cs",
+              "DocumentMoniker": "C:\\Users\\Pallavi Poola\\OneDrive\\Desktop\\wiprotraining\\Arrays1\\Arrays1\\Practice.cs",
+              "RelativeDocumentMoniker": "Arrays1\\Practice.cs",
+              "ToolTip": "C:\\Users\\Pallavi Poola\\OneDrive\\Desktop\\wiprotraining\\Arrays1\\Arrays1\\Practice.cs",
+              "RelativeToolTip": "Arrays1\\Practice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:39:51.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Arrays1",
+              "DocumentMoniker": "C:\\Users\\Pallavi Poola\\OneDrive\\Desktop\\wiprotraining\\Arrays1\\Arrays1\\Arrays1.csproj",
+              "RelativeDocumentMoniker": "Arrays1\\Arrays1.csproj",
+              "ToolTip": "C:\\Users\\Pallavi Poola\\OneDrive\\Desktop\\wiprotraining\\Arrays1\\Arrays1\\Arrays1.csproj",
+              "RelativeToolTip": "Arrays1\\Arrays1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-23T04:24:38.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JaggaedArray.cs",
+              "DocumentMoniker": "C:\\Users\\Pallavi Poola\\OneDrive\\Desktop\\wiprotraining\\Arrays1\\Arrays1\\JaggaedArray.cs",
+              "RelativeDocumentMoniker": "Arrays1\\JaggaedArray.cs",
+              "ToolTip": "C:\\Users\\Pallavi Poola\\OneDrive\\Desktop\\wiprotraining\\Arrays1\\Arrays1\\JaggaedArray.cs",
+              "RelativeToolTip": "Arrays1\\JaggaedArray.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T04:17:16.358Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

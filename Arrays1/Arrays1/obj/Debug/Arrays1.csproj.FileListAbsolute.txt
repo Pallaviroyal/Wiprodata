@@ -1,0 +1,8 @@
+C:\Users\Pallavi Poola\OneDrive\Desktop\wiprotraining\Arrays1\Arrays1\bin\Debug\Arrays1.exe.config
+C:\Users\Pallavi Poola\OneDrive\Desktop\wiprotraining\Arrays1\Arrays1\bin\Debug\Arrays1.exe
+C:\Users\Pallavi Poola\OneDrive\Desktop\wiprotraining\Arrays1\Arrays1\bin\Debug\Arrays1.pdb
+C:\Users\Pallavi Poola\OneDrive\Desktop\wiprotraining\Arrays1\Arrays1\obj\Debug\Arrays1.csproj.AssemblyReference.cache
+C:\Users\Pallavi Poola\OneDrive\Desktop\wiprotraining\Arrays1\Arrays1\obj\Debug\Arrays1.csproj.CoreCompileInputs.cache
+C:\Users\Pallavi Poola\OneDrive\Desktop\wiprotraining\Arrays1\Arrays1\obj\Debug\Arrays1.exe
+C:\Users\Pallavi Poola\OneDrive\Desktop\wiprotraining\Arrays1\Arrays1\obj\Debug\Arrays1.pdb
+C:\Users\Pallavi Poola\OneDrive\Desktop\wiprotraining\Arrays1\Arrays1\obj\Debug\Arrays1.exe.config

@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WiproTraining\\day6\\Project\\Employproject.Models\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{906A11F3-60EA-44E4-B22A-D6CD3A4B1AD4}|Employproject.Models\\Employproject.Models.csproj|c:\\wiprotraining\\day6\\project\\employproject.models\\employproject.models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906A11F3-60EA-44E4-B22A-D6CD3A4B1AD4}|Employproject.Models\\Employproject.Models.csproj|solutionrelative:employproject.models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Employproject.Models||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906A11F3-60EA-44E4-B22A-D6CD3A4B1AD4}|Employproject.Models\\Employproject.Models.csproj|c:\\wiprotraining\\day6\\project\\employproject.models\\employproject.models\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employproject.Models",
+              "DocumentMoniker": "C:\\WiproTraining\\day6\\Project\\Employproject.Models\\Employproject.Models\\Employproject.Models.csproj",
+              "RelativeDocumentMoniker": "Employproject.Models\\Employproject.Models.csproj",
+              "ToolTip": "C:\\WiproTraining\\day6\\Project\\Employproject.Models\\Employproject.Models\\Employproject.Models.csproj",
+              "RelativeToolTip": "Employproject.Models\\Employproject.Models.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-27T13:30:27.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "C:\\WiproTraining\\day6\\Project\\Employproject.Models\\Employproject.Models\\Employ.cs",
+              "RelativeDocumentMoniker": "Employproject.Models\\Employ.cs",
+              "ToolTip": "C:\\WiproTraining\\day6\\Project\\Employproject.Models\\Employproject.Models\\Employ.cs",
+              "RelativeToolTip": "Employproject.Models\\Employ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T13:30:19.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
