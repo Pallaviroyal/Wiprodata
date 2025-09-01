@@ -1,0 +1,322 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\ChatBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|d:\\project\\chatbackend\\chatbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|solutionrelative:chatbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|d:\\project\\chatbackend\\chatbackend\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|solutionrelative:chatbackend\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|d:\\project\\chatbackend\\chatbackend\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|solutionrelative:chatbackend\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|d:\\project\\chatbackend\\chatbackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|solutionrelative:chatbackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|d:\\project\\chatbackend\\chatbackend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|solutionrelative:chatbackend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|d:\\project\\chatbackend\\chatbackend\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|solutionrelative:chatbackend\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|d:\\project\\chatbackend\\chatbackend\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|solutionrelative:chatbackend\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|d:\\project\\chatbackend\\chatbackend\\models\\chatgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|solutionrelative:chatbackend\\models\\chatgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|d:\\project\\chatbackend\\chatbackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|solutionrelative:chatbackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|d:\\project\\chatbackend\\chatbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|solutionrelative:chatbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|d:\\project\\chatbackend\\chatbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|solutionrelative:chatbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|d:\\project\\chatbackend\\chatbackend\\models\\groupmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|solutionrelative:chatbackend\\models\\groupmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|d:\\project\\chatbackend\\chatbackend\\models\\privatemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|solutionrelative:chatbackend\\models\\privatemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|d:\\project\\chatbackend\\chatbackend\\models\\groupmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|solutionrelative:chatbackend\\models\\groupmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|d:\\project\\chatbackend\\chatbackend\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|solutionrelative:chatbackend\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|d:\\project\\chatbackend\\chatbackend\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|solutionrelative:chatbackend\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|d:\\project\\chatbackend\\chatbackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|solutionrelative:chatbackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|d:\\project\\chatbackend\\chatbackend\\chatbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD491CDA-DDD2-4086-AE7E-97123AA5DF8E}|ChatBackend\\ChatBackend.csproj|solutionrelative:chatbackend\\chatbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "D:\\Project\\ChatBackend\\ChatBackend\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "ChatBackend\\Hubs\\ChatHub.cs",
+              "ToolTip": "D:\\Project\\ChatBackend\\ChatBackend\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "ChatBackend\\Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T21:03:05.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "D:\\Project\\ChatBackend\\ChatBackend\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "ChatBackend\\Controllers\\ChatController.cs",
+              "ToolTip": "D:\\Project\\ChatBackend\\ChatBackend\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "ChatBackend\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAADUAAAAA5P/////1vzcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T09:59:07.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\ChatBackend\\ChatBackend\\Program.cs",
+              "RelativeDocumentMoniker": "ChatBackend\\Program.cs",
+              "ToolTip": "D:\\Project\\ChatBackend\\ChatBackend\\Program.cs",
+              "RelativeToolTip": "ChatBackend\\Program.cs",
+              "ViewState": "AgIAAFIAAABgmpmZmVkkwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T09:47:51.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Project\\ChatBackend\\ChatBackend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ChatBackend\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Project\\ChatBackend\\ChatBackend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ChatBackend\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T09:59:31.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Project\\ChatBackend\\ChatBackend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ChatBackend\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Project\\ChatBackend\\ChatBackend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ChatBackend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T09:58:40.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Project\\ChatBackend\\ChatBackend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ChatBackend\\Models\\User.cs",
+              "ToolTip": "D:\\Project\\ChatBackend\\ChatBackend\\Models\\User.cs",
+              "RelativeToolTip": "ChatBackend\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T09:48:43.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project\\ChatBackend\\ChatBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "ChatBackend\\appsettings.json",
+              "ToolTip": "D:\\Project\\ChatBackend\\ChatBackend\\appsettings.json",
+              "RelativeToolTip": "ChatBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-29T09:46:25.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChatGroup.cs",
+              "DocumentMoniker": "D:\\Project\\ChatBackend\\ChatBackend\\Models\\ChatGroup.cs",
+              "RelativeDocumentMoniker": "ChatBackend\\Models\\ChatGroup.cs",
+              "ToolTip": "D:\\Project\\ChatBackend\\ChatBackend\\Models\\ChatGroup.cs",
+              "RelativeToolTip": "ChatBackend\\Models\\ChatGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T09:50:04.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Group.cs",
+              "DocumentMoniker": "D:\\Project\\ChatBackend\\ChatBackend\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "ChatBackend\\Models\\Group.cs",
+              "ToolTip": "D:\\Project\\ChatBackend\\ChatBackend\\Models\\Group.cs",
+              "RelativeToolTip": "ChatBackend\\Models\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T17:32:54.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Message.cs",
+              "DocumentMoniker": "D:\\Project\\ChatBackend\\ChatBackend\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "ChatBackend\\Models\\Message.cs",
+              "ToolTip": "D:\\Project\\ChatBackend\\ChatBackend\\Models\\Message.cs",
+              "RelativeToolTip": "ChatBackend\\Models\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T09:49:20.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Project\\ChatBackend\\ChatBackend\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ChatBackend\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Project\\ChatBackend\\ChatBackend\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ChatBackend\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T09:55:00.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PrivateMessage.cs",
+              "DocumentMoniker": "D:\\Project\\ChatBackend\\ChatBackend\\Models\\PrivateMessage.cs",
+              "RelativeDocumentMoniker": "ChatBackend\\Models\\PrivateMessage.cs",
+              "ToolTip": "D:\\Project\\ChatBackend\\ChatBackend\\Models\\PrivateMessage.cs",
+              "RelativeToolTip": "ChatBackend\\Models\\PrivateMessage.cs",
+              "ViewState": "AgIAAAQAAADYzMzMzAw8wAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T17:10:18.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GroupMessage.cs",
+              "DocumentMoniker": "D:\\Project\\ChatBackend\\ChatBackend\\Models\\GroupMessage.cs",
+              "RelativeDocumentMoniker": "ChatBackend\\Models\\GroupMessage.cs",
+              "ToolTip": "D:\\Project\\ChatBackend\\ChatBackend\\Models\\GroupMessage.cs",
+              "RelativeToolTip": "ChatBackend\\Models\\GroupMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T17:11:15.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GroupMember.cs",
+              "DocumentMoniker": "D:\\Project\\ChatBackend\\ChatBackend\\Models\\GroupMember.cs",
+              "RelativeDocumentMoniker": "ChatBackend\\Models\\GroupMember.cs",
+              "ToolTip": "D:\\Project\\ChatBackend\\ChatBackend\\Models\\GroupMember.cs",
+              "RelativeToolTip": "ChatBackend\\Models\\GroupMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T09:50:34.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GroupController.cs",
+              "DocumentMoniker": "D:\\Project\\ChatBackend\\ChatBackend\\Controllers\\GroupController.cs",
+              "RelativeDocumentMoniker": "ChatBackend\\Controllers\\GroupController.cs",
+              "ToolTip": "D:\\Project\\ChatBackend\\ChatBackend\\Controllers\\GroupController.cs",
+              "RelativeToolTip": "ChatBackend\\Controllers\\GroupController.cs",
+              "ViewState": "AgIAAAQAAABQZmZmZuYuwBcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T10:00:01.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FileController.cs",
+              "DocumentMoniker": "D:\\Project\\ChatBackend\\ChatBackend\\Controllers\\FileController.cs",
+              "RelativeDocumentMoniker": "ChatBackend\\Controllers\\FileController.cs",
+              "ToolTip": "D:\\Project\\ChatBackend\\ChatBackend\\Controllers\\FileController.cs",
+              "RelativeToolTip": "ChatBackend\\Controllers\\FileController.cs",
+              "ViewState": "AgIAAAoAAAAgmpmZmRklwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T10:00:32.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChatBackend.csproj",
+              "DocumentMoniker": "D:\\Project\\ChatBackend\\ChatBackend\\ChatBackend.csproj",
+              "RelativeDocumentMoniker": "ChatBackend\\ChatBackend.csproj",
+              "ToolTip": "D:\\Project\\ChatBackend\\ChatBackend\\ChatBackend.csproj",
+              "RelativeToolTip": "ChatBackend\\ChatBackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-29T09:51:02.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Project\\ChatBackend\\ChatBackend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ChatBackend\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Project\\ChatBackend\\ChatBackend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ChatBackend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-29T10:23:41.47Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
